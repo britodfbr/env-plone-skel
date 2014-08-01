@@ -1,0 +1,42 @@
+*~
+*.bkp
+*.egg
+*.egg-info
+*.log
+*.pyc
+*.pyo
+*.swp
+.installed.cfg
+.installed.cfg
+bin/
+build
+develop-eggs
+dist
+eggs/
+extends/
+haproxy.conf
+lib
+lib64
+parts/
+py24/
+py26/
+py27/
+sdist
+var
+var/log/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
